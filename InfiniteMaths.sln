@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfiniteMaths", "InfiniteMaths\InfiniteMaths.csproj", "{FD4274D9-EFE9-4D65-A847-35E3F6CC5CED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{20D09B46-A24A-404A-8372-FCE6ABD1D9CF} = {20D09B46-A24A-404A-8372-FCE6ABD1D9CF}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaceholderTextBoxControl", "Placeholder Textbox Control\PlaceholderTextBoxControl.csproj", "{9ED9FDCE-B233-4634-AEE8-B6688B414556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsAllLettersOrDigitsLib", "IsAllLetterOrDigit\IsAllLettersOrDigitsLib.csproj", "{20D09B46-A24A-404A-8372-FCE6ABD1D9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4274D9-EFE9-4D65-A847-35E3F6CC5CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4274D9-EFE9-4D65-A847-35E3F6CC5CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4274D9-EFE9-4D65-A847-35E3F6CC5CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4274D9-EFE9-4D65-A847-35E3F6CC5CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED9FDCE-B233-4634-AEE8-B6688B414556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED9FDCE-B233-4634-AEE8-B6688B414556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED9FDCE-B233-4634-AEE8-B6688B414556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED9FDCE-B233-4634-AEE8-B6688B414556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D09B46-A24A-404A-8372-FCE6ABD1D9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D09B46-A24A-404A-8372-FCE6ABD1D9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D09B46-A24A-404A-8372-FCE6ABD1D9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D09B46-A24A-404A-8372-FCE6ABD1D9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9284B331-1506-4E62-B9E3-0E2D940722DC}
+	EndGlobalSection
+EndGlobal

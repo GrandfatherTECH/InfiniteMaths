@@ -1,0 +1,19 @@
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\bin\Debug\net7.0-windows\PlaceholderTextBoxControl.deps.json
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\bin\Debug\net7.0-windows\PlaceholderTextBoxControl.dll
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\bin\Debug\net7.0-windows\PlaceholderTextBoxControl.pdb
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\bin\Debug\net7.0-windows\Placeholder Textbox Control.dll
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.csproj.AssemblyReference.cache
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl_MarkupCompile.cache
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl_MarkupCompile.lref
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\Themes\Generic.baml
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.g.resources
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.AssemblyInfoInputs.cache
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.AssemblyInfo.cs
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.csproj.CoreCompileInputs.cache
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.dll
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\refint\PlaceholderTextBoxControl.dll
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\PlaceholderTextBoxControl.pdb
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\ref\PlaceholderTextBoxControl.dll
+D:\VSRepos\InfiniteMaths\Placeholder Textbox Control\obj\Debug\net7.0-windows\Placehol.D0C4B1C9.Up2Date

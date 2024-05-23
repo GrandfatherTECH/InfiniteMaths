@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "IsAllLettersOrDigitsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/IsAllLettersOrDigitsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IsAllLettersOrDigitsLib.dll": {}
+        }
+      },
+      "PlaceholderTextBoxControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PlaceholderTextBoxControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlaceholderTextBoxControl.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "IsAllLettersOrDigitsLib/1.0.0": {
+      "type": "project",
+      "path": "../IsAllLetterOrDigit/IsAllLettersOrDigitsLib.csproj",
+      "msbuildProject": "../IsAllLetterOrDigit/IsAllLettersOrDigitsLib.csproj"
+    },
+    "PlaceholderTextBoxControl/1.0.0": {
+      "type": "project",
+      "path": "../Placeholder Textbox Control/PlaceholderTextBoxControl.csproj",
+      "msbuildProject": "../Placeholder Textbox Control/PlaceholderTextBoxControl.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "IsAllLettersOrDigitsLib >= 1.0.0",
+      "PlaceholderTextBoxControl >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dedul\\.nuget\\packages\\": {},
+    "D:\\SDKs\\MVS2022\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\VSRepos\\InfiniteMaths\\InfiniteMaths\\InfiniteMaths.csproj",
+      "projectName": "InfiniteMaths",
+      "projectPath": "D:\\VSRepos\\InfiniteMaths\\InfiniteMaths\\InfiniteMaths.csproj",
+      "packagesPath": "C:\\Users\\dedul\\.nuget\\packages\\",
+      "outputPath": "D:\\VSRepos\\InfiniteMaths\\InfiniteMaths\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\SDKs\\MVS2022\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dedul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "D:\\VSRepos\\InfiniteMaths\\IsAllLetterOrDigit\\IsAllLettersOrDigitsLib.csproj": {
+              "projectPath": "D:\\VSRepos\\InfiniteMaths\\IsAllLetterOrDigit\\IsAllLettersOrDigitsLib.csproj"
+            },
+            "D:\\VSRepos\\InfiniteMaths\\Placeholder Textbox Control\\PlaceholderTextBoxControl.csproj": {
+              "projectPath": "D:\\VSRepos\\InfiniteMaths\\Placeholder Textbox Control\\PlaceholderTextBoxControl.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

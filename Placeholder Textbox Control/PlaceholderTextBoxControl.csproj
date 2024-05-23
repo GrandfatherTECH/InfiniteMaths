@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Placeholder_Textbox_Control</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Configurations>Debug;Release;86x</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Placeholder Textbox Control">
+      <HintPath>obj\Debug\net7.0-windows\ref\Placeholder Textbox Control.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

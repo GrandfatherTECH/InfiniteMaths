@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PlaceholderTextBoxControl/1.0.0": {
+        "dependencies": {
+          "Placeholder Textbox Control": "1.0.0.0"
+        },
+        "runtime": {
+          "PlaceholderTextBoxControl.dll": {}
+        }
+      },
+      "Placeholder Textbox Control/1.0.0.0": {
+        "runtime": {
+          "Placeholder Textbox Control.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlaceholderTextBoxControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Placeholder Textbox Control/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\bin\Release\net7.0\IsAllLettersOrDigitsLib.deps.json
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\bin\Release\net7.0\IsAllLettersOrDigitsLib.dll
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\bin\Release\net7.0\IsAllLettersOrDigitsLib.pdb
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\IsAllLettersOrDigitsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\IsAllLettersOrDigitsLib.AssemblyInfoInputs.cache
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\IsAllLettersOrDigitsLib.AssemblyInfo.cs
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\IsAllLettersOrDigitsLib.csproj.CoreCompileInputs.cache
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\IsAllLettersOrDigitsLib.dll
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\refint\IsAllLettersOrDigitsLib.dll
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\IsAllLettersOrDigitsLib.pdb
+D:\VSRepos\InfiniteMaths\IsAllLetterOrDigit\obj\Release\net7.0\ref\IsAllLettersOrDigitsLib.dll

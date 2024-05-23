@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "InfiniteMaths/1.0.0": {
+        "dependencies": {
+          "IsAllLettersOrDigits": "1.0.0",
+          "PlaceholderTextBoxControl": "1.0.0"
+        },
+        "runtime": {
+          "InfiniteMaths.dll": {}
+        }
+      },
+      "IsAllLettersOrDigits/1.0.0": {
+        "runtime": {
+          "IsAllLettersOrDigits.dll": {}
+        }
+      },
+      "PlaceholderTextBoxControl/1.0.0": {
+        "runtime": {
+          "PlaceholderTextBoxControl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InfiniteMaths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IsAllLettersOrDigits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlaceholderTextBoxControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
